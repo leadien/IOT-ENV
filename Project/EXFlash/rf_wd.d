@@ -1,0 +1,16 @@
+.\EXFlash\rf_wd.o: ..\RF\rf_wd.c
+.\EXFlash\rf_wd.o: ..\inc\def.h
+.\EXFlash\rf_wd.o: ..\FWLib\inc\stm32f10x_iwdg.h
+.\EXFlash\rf_wd.o: ..\Board\stm32f10x.h
+.\EXFlash\rf_wd.o: ..\Board\core_cm3.h
+.\EXFlash\rf_wd.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\EXFlash\rf_wd.o: ..\Board\system_stm32f10x.h
+.\EXFlash\rf_wd.o: ..\APP\dtimer.h
+.\EXFlash\rf_wd.o: ..\RF\rf_wd.h
+.\EXFlash\rf_wd.o: ..\RF\app\wers.h
+.\EXFlash\rf_wd.o: D:\Keil\ARM\RV31\Inc\stdlib.h
+.\EXFlash\rf_wd.o: ..\uCOS-II\Source\ucos_ii.h
+.\EXFlash\rf_wd.o: ..\inc\app_cfg.h
+.\EXFlash\rf_wd.o: ..\inc\os_cfg.h
+.\EXFlash\rf_wd.o: ..\uCOS-II\Ports\os_cpu.h
+.\EXFlash\rf_wd.o: ..\RF\rf_mem.h

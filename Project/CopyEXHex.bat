@@ -1,0 +1,1 @@
+copy EXFlash\RunInFlash.hex image\EXFlash.hex

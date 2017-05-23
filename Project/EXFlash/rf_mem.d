@@ -1,0 +1,17 @@
+.\EXFlash\rf_mem.o: ..\RF\rf_mem.c
+.\EXFlash\rf_mem.o: ..\inc\printf_level.h
+.\EXFlash\rf_mem.o: D:\Keil\ARM\RV31\Inc\stdio.h
+.\EXFlash\rf_mem.o: D:\Keil\ARM\RV31\Inc\string.h
+.\EXFlash\rf_mem.o: ..\Board\stm32_eval.h
+.\EXFlash\rf_mem.o: ..\FWLib\inc\stm32f10x_usart.h
+.\EXFlash\rf_mem.o: ..\Board\stm32f10x.h
+.\EXFlash\rf_mem.o: ..\Board\core_cm3.h
+.\EXFlash\rf_mem.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\EXFlash\rf_mem.o: ..\Board\system_stm32f10x.h
+.\EXFlash\rf_mem.o: ..\Board\stm3210e_eval.h
+.\EXFlash\rf_mem.o: ..\uCOS-II\Source\ucos_ii.h
+.\EXFlash\rf_mem.o: ..\inc\app_cfg.h
+.\EXFlash\rf_mem.o: ..\inc\os_cfg.h
+.\EXFlash\rf_mem.o: ..\uCOS-II\Ports\os_cpu.h
+.\EXFlash\rf_mem.o: ..\inc\def.h
+.\EXFlash\rf_mem.o: ..\RF\rf_mem.h

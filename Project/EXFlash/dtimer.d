@@ -1,0 +1,15 @@
+.\EXFlash\dtimer.o: ..\APP\dtimer.c
+.\EXFlash\dtimer.o: D:\Keil\ARM\RV31\Inc\stdio.h
+.\EXFlash\dtimer.o: ..\Board\stm32f10x.h
+.\EXFlash\dtimer.o: ..\Board\core_cm3.h
+.\EXFlash\dtimer.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\EXFlash\dtimer.o: ..\Board\system_stm32f10x.h
+.\EXFlash\dtimer.o: ..\FWLib\inc\misc.h
+.\EXFlash\dtimer.o: ..\FWLib\inc\stm32f10x_gpio.h
+.\EXFlash\dtimer.o: ..\FWLib\inc\stm32f10x_rcc.h
+.\EXFlash\dtimer.o: ..\FWLib\inc\stm32f10x_tim.h
+.\EXFlash\dtimer.o: ..\uCOS-II\Source\ucos_ii.h
+.\EXFlash\dtimer.o: ..\inc\app_cfg.h
+.\EXFlash\dtimer.o: ..\inc\os_cfg.h
+.\EXFlash\dtimer.o: ..\uCOS-II\Ports\os_cpu.h
+.\EXFlash\dtimer.o: ..\APP\dtimer.h

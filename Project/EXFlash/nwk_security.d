@@ -1,0 +1,15 @@
+.\EXFlash\nwk_security.o: ..\RF\nwkapp\nwk_security.c
+.\EXFlash\nwk_security.o: ..\RF\bsp\bsp.h
+.\EXFlash\nwk_security.o: D:\Keil\ARM\RV31\Inc\stdio.h
+.\EXFlash\nwk_security.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\EXFlash\nwk_security.o: ..\RF\bsp\bsp_board_defs.h
+.\EXFlash\nwk_security.o: ..\RF\bsp\bsp_macros.h
+.\EXFlash\nwk_security.o: ..\inc\os_api.h
+.\EXFlash\nwk_security.o: ..\uCOS-II\Ports\os_cpu.h
+.\EXFlash\nwk_security.o: ..\RF\cc1100.h
+.\EXFlash\nwk_security.o: ..\inc\def.h
+.\EXFlash\nwk_security.o: ..\inc\printf_level.h
+.\EXFlash\nwk_security.o: ..\RF\mrfi\mrfi.h
+.\EXFlash\nwk_security.o: ..\RF\mrfi\mrfi_defs.h
+.\EXFlash\nwk_security.o: ..\RF\nwk\nwk_types.h
+.\EXFlash\nwk_security.o: ..\RF\nwkapp\nwk_security.h

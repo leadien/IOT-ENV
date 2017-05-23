@@ -1,0 +1,1 @@
+copy APFlash\RunInFlash.hex image\APFlash.hex

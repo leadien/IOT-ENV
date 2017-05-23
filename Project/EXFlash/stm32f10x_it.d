@@ -1,0 +1,11 @@
+.\EXFlash\stm32f10x_it.o: ..\APP\stm32f10x_it.c
+.\EXFlash\stm32f10x_it.o: ..\APP\stm32f10x_it.h
+.\EXFlash\stm32f10x_it.o: ..\Board\stm32f10x.h
+.\EXFlash\stm32f10x_it.o: ..\Board\core_cm3.h
+.\EXFlash\stm32f10x_it.o: D:\Keil\ARM\RV31\Inc\stdint.h
+.\EXFlash\stm32f10x_it.o: ..\Board\system_stm32f10x.h
+.\EXFlash\stm32f10x_it.o: ..\FWLib\inc\stm32f10x_exti.h
+.\EXFlash\stm32f10x_it.o: ..\uCOS-II\Source\ucos_ii.h
+.\EXFlash\stm32f10x_it.o: ..\inc\app_cfg.h
+.\EXFlash\stm32f10x_it.o: ..\inc\os_cfg.h
+.\EXFlash\stm32f10x_it.o: ..\uCOS-II\Ports\os_cpu.h
